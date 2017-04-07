@@ -1,4 +1,4 @@
-# Andrea Barletta
+# Repository of my MATLAB codes
 __________________________________________________________________________________________________________________________________________
 ## About myself
 My name is Andrea Barletta and I work as postdoctoral researcher in Quantitative Finance at Aarhus BSS, Denmark. 
