@@ -10,8 +10,8 @@ In this page I share some MATLAB codes that I have developed for my research.
 ### <b>rndfittool</b> - _Risk-neutral Density Fitting Tool_
 The _Risk-neutral Density Fitting Tool_ tool (rndfittool) allows the user to infer the risk-neutral density (RND), the risk-neutral moments and the greeks embedded in a set of observed call and put option prices. The underlying  methodology is fully non-structural, meaning that it does not rely on any parametric model, and it consists in approximating the RND through orthogonal polynomial expansions. A detailed description of this methodology is provided in <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2943964">this paper</a>.
 
-#### Latest downloads (updated 2017-04-27)
-- [MATLAB App installer v17.04 (recommended)](https://github.com/abarletta/rndfittool/releases/download/v17.04/RND.Fitting.Tool.mlappinstall)
-- [Zip archive containing all codes v17.04](https://github.com/abarletta/rndfittool/releases/download/v17.04/RND.Fitting.Tool.zip)
+#### Latest downloads (updated 2017-06-26)
+- [MATLAB App installer v17.06 (recommended)](https://github.com/abarletta/rndfittool/releases/download/v17.06/RND.Fitting.Tool.mlappinstall)
+- [Zip archive containing all codes v17.06](https://github.com/abarletta/rndfittool/releases/download/v17.06/RND.Fitting.Tool.zip)
 
 <b> [See more](https://abarletta.github.io/rndfittool/) </b>
