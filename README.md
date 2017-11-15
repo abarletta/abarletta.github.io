@@ -12,6 +12,6 @@ The _Risk-neutral Density Fitting Tool_ tool (rndfittool) allows the user to inf
 
 #### Latest downloads (updated 2017-11-15)
 - [MATLAB App installer v17.10 (recommended)](https://github.com/abarletta/rndfittool/releases/download/v17.10/RND.Fitting.Tool.v17.10.mlappinstall)
-- [Zip archive containing all codes v17.08](https://github.com/abarletta/rndfittool/releases/download/v17.10/RND.Fitting.Tool.v17.10.zip)
+- [Zip archive containing all codes v17.10](https://github.com/abarletta/rndfittool/releases/download/v17.10/RND.Fitting.Tool.v17.10.zip)
 
 <b> [See more](https://abarletta.github.io/rndfittool/) </b>
