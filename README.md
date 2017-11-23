@@ -21,7 +21,7 @@ The _Risk-neutral Density Fitting Tool_ tool (rndfittool) allows the user to inf
 
 This toolbox computes approximate values of the Black & Scholes implied volatility of VIX options using the perturbative technique described in <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2942262">this paper</a>. The modelling setup requires that the VIX index dynamics is explicitly computable as a smooth transformation of a purely diffusive, one-dimensional Markov process Y. Specifically:
 
-#### Latest downloads
+#### Latest downloads (updated 2017-11-23)
 
 - [MATLAB Toolbox installer (recommended)](https://github.com/abarletta/viximpv/releases/download/17.11/VIX.Implied.Volatility.mltbx)
 - [Zip archive containing all codes](https://github.com/abarletta/viximpv/releases/download/17.11/VIX.Implied.Volatility.zip)
